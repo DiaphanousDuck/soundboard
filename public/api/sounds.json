@@ -1,0 +1,64 @@
+{
+  "files": [
+    {
+      "name": "baam_wow.mp3",
+      "artist": "diaphanous_Duck",
+      "mp3": "/sounds/baam_wow.mp3"
+    },
+    {
+      "name": "baka.mp3",
+      "artist": "diaphanous_Duck",
+      "mp3": "/sounds/baka.mp3"
+    },
+    {
+      "name": "hag_cackle.mp3",
+      "artist": "diaphanous_Duck",
+      "mp3": "/sounds/hag_cackle.mp3"
+    },
+    {
+      "name": "he_is_gay.mp3",
+      "artist": "diaphanous_Duck",
+      "mp3": "/sounds/he_is_gay.mp3"
+    },
+    {
+      "name": "honkhonk_awooga.mp3",
+      "artist": "diaphanous_Duck",
+      "mp3": "/sounds/honkhonk_awooga.mp3"
+    },
+    {
+      "name": "listen_here_you_little_shit.mp3",
+      "artist": "diaphanous_Duck",
+      "mp3": "/sounds/listen_here_you_little_shit.mp3"
+    },
+    {
+      "name": "nose_pinched_john_madden.mp3",
+      "artist": "diaphanous_Duck",
+      "mp3": "/sounds/nose_pinched_john_madden.mp3"
+    },
+    {
+      "name": "stick_out_tongue.mp3",
+      "artist": "diaphanous_Duck",
+      "mp3": "/sounds/stick_out_tongue.mp3"
+    },
+    {
+      "name": "that_is_disgusting.mp3",
+      "artist": "diaphanous_Duck",
+      "mp3": "/sounds/that_is_disgusting.mp3"
+    },
+    {
+      "name": "that_is_disgusting_short.mp3",
+      "artist": "diaphanous_Duck",
+      "mp3": "/sounds/that_is_disgusting_short.mp3"
+    },
+    {
+      "name": "urgh_you_are_valid.mp3",
+      "artist": "diaphanous_Duck",
+      "mp3": "/sounds/urgh_you_are_valid.mp3"
+    },
+    {
+      "name": "wawawawawa.mp3",
+      "artist": "diaphanous_Duck",
+      "mp3": "/sounds/wawawawawa.mp3"
+    }
+  ]
+}

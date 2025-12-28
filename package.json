@@ -1,0 +1,47 @@
+{
+    "name": "pwa-soundboard",
+    "version": "1.0.0",
+    "type": "module",
+    "description": "A fully configurable Progressive Web App soundboard - open source and free for all to use and modify",
+    "main": "index.html",
+    "license": "MIT",
+    "author": "Soundboard PWA Contributors",
+    "keywords": [
+        "soundboard",
+        "pwa",
+        "progressive-web-app",
+        "offline",
+        "audio",
+        "open-source",
+        "configurable",
+        "customizable"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/your-username/pwa-soundboard.git"
+    },
+    "bugs": {
+        "url": "https://github.com/your-username/pwa-soundboard/issues"
+    },
+    "homepage": "https://github.com/your-username/pwa-soundboard#readme",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview",
+        "setup": "node sync-data.js",
+        "generate-sounds": "node generate-sounds.js",
+        "generate-icons": "start icon-generator.html",
+        "dev:setup": "npm run setup && npm run dev",
+        "build:setup": "npm run setup && npm run build"
+    },
+    "devDependencies": {
+        "vite": "^7.1.12"
+    },
+    "dependencies": {
+        "node-id3": "^0.2.9",
+        "workbox-core": "^7.0.0",
+        "workbox-precaching": "^7.0.0",
+        "workbox-routing": "^7.0.0",
+        "workbox-strategies": "^7.0.0"
+    }
+}

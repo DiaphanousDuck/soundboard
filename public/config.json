@@ -1,0 +1,15 @@
+{
+    "title": "The Hardcore and Girl Soundboard",
+    "shortName": "HaGBoard",
+    "subtitle": "",
+    "description": "Just a soundboard with HaG noises",
+    "headerTitle": "🌊🐾 HaG Soundboard 🌊🐾",
+    "searchPlaceholder": "SEARCH FOR SOUNDS...",
+    "tipText": "↑ PRESS [S] TO SEARCH • CLICK TO PLAY ↑",
+    "loadingText": "LOADING SOUNDS...",
+    "offlineText": "OFFLINE MODE - USING CACHED SOUNDS",
+    "soundCountText": "AUDIO DROPS",
+    "themeColor": "#1a1a1a",
+    "backgroundColor": "#1a1a1a"
+}
+
